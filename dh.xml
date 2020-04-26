@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Письмо В.В. Маяковского Лиле Брик</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>DH-MINOR</publisher>
+                <date when="2020-04-24">27 April 2020</date>
+            </publicationStmt>
+            <sourceDesc>
+                <listPerson>
+                    <person xml:id="Vladimir_Vladimirovich_Mayakovsky">
+                        <persName> Владимир Владимирович Маяковский</persName>
+                    </person>
+                    <person xml:id="Lilya_Yuryevna_Brik">
+                        <persName>Лиля Юрьевна Брик</persName>
+                    </person>
+                    <person xml:id="Lev_Alexandrovich_Grinkrug">
+                        <persName>Лев Александрович Гринкруг</persName>
+                    </person>
+                </listPerson>
+                <listRelation type="personal">
+                    <relation  name="lover" mutual="#Lilya_Yuryevna_Brik #Vladimir_Vladimirovich_Mayakovsky"></relation>
+                    <relation name="friend" mutual="#Vladimir_Vladimirovich_Mayakovsky #Lev_Alexandrovich_Grinkrug #Lilya_Yuryevna_Brik"></relation>
+                </listRelation>
+                <listPlace>
+                    <place>
+                        <country xml:id="ussr"/>
+                        <place>
+                            <settlement xml:id="moscow-ussr"/>
+                        </place>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+           <correspDesc>
+               <correspAction type="sending">
+                    <persName ref="#Vladimir_Vladimirovich_Mayakovskaya">Владимир Владимирович Маяковский</persName>
+                    <date when="1923-01-19">19/1 23</date>
+               </correspAction>
+               <correspAction type="receiving">
+                    <persName ref="#Lilya_Yuryevna_Brik">Лиля Юрьевна Брик</persName>
+               </correspAction>
+               <correspContext>
+                    <ref type="prev"/>
+               </correspContext>
+           </correspDesc>
+        </profileDesc>
+    </teiHeader> 
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <placeName ref="#moscow-ussr">«Москва, Редингетская тюрьма</placeName>
+                    <dateline>
+                        <date when="1923-01-19">19/1 23</date>
+                    </dateline>
+                    <salute>Любимый, милый мой, солнышко дорогое, 
+                    <persName ref="#Lilya_Yuryevna_Brik">Лиленок</persName></salute>.
+                </opener>
+                <p>Может быть (хорошо если—да!), глупый <persName ref="#Lev_Alexandrovich_Grinkrug">Левка</persName> 
+                    огорчил <rs type="person" ref="#Lilya_Yuryevna_Brik">тебя</rs> вчера какими-то моими нервишками.
+                    Будь веселенькая!
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">Я буду</rs>.
+                    Это ерунда и мелочь.
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">Я</rs> узнал сегодня, 
+                    что <rs type="person" ref="#Lilya_Yuryevna_Brik">ты</rs> захмурилась немного, 
+                    не надо, <persName ref="#Lilya_Yuryevna_Brik">Лучик</persName>!
+                    Конечно, <rs type="person" ref="#Lilya_Yuryevna_Brik">ты</rs> понимаешь, 
+                    что без <rs type="person" ref="#Lilya_Yuryevna_Brik">тебя</rs> 
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">образованному человеку</rs> 
+                    жить нельзя.
+                    Но если у <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">этого человека</rs> 
+                    есть крохотная надеждочка увидеть 
+                    <rs type="person" ref="#Lilya_Yuryevna_Brik">тебя</rs>, 
+                    то <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">ему</rs> очень и очень весело.
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">Я</rs> 
+                    рад подарить <rs type="person" ref="#Lilya_Yuryevna_Brik">тебе</rs> и вдесятеро большую игрушку,
+                    чтоб только <rs type="person" ref="#Lilya_Yuryevna_Brik">ты</rs> потом улыбалась.
+                    У <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">меня</rs> есть пять 
+                    <rs type="person" ref="#Lilya_Yuryevna_Brik">твоих</rs> клочочков, 
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">я</rs> их ужасно люблю, 
+                    только один <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">меня</rs> огорчает,
+                    — последний — там просто 
+                    «<persName ref="#Vladimir_Vladimirovich_Mayakovsky">Волосик</persName>, спасибо», 
+                    а в других есть продолжения — те 
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">мои</rs>
+                    любимые.</p>
+                <p>Ведь <rs type="person" ref="#Lilya_Yuryevna_Brik">ты</rs> не очень сердишься на 
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">мои</rs> глупые письма? 
+                    Если сердишься, то не надо — от них у 
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">меня</rs> все праздники.
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">Я</rs> 
+                    езжу с <rs type="person" ref="#Lilya_Yuryevna_Brik">тобой</rs>, 
+                    пишу с <rs type="person" ref="Lilya_Yuryevna_Brik">тобой</rs>, сплю 
+                    с <rs type="person" ref="Lilya_Yuryevna_Brik">твоим кошачьим имечком</rs> и все такое.
+                    Целую <rs type="person" ref="#Lilya_Yuryevna_Brik">тебя</rs>, 
+                    если <rs type="person" ref="#Lilya_Yuryevna_Brik">ты</rs> 
+                    не боишься быть растерзанной бешеным собаком...
+                    <rs type="person" ref="#Lilya_Yuryevna_Brik">Любимый</rs>, 
+                    помни <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">меня</rs>. 
+                    Поцелуй Клеста. 
+                    Скажи, чтоб не вылазил— <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">я</rs> 
+                    же не вылажу!»
+                </p><p>Ведь <rs type="person" ref="#Lilya_Yuryevna_Brik">ты</rs> не очень сердишься на 
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">мои</rs> глупые письма? 
+                    Если сердишься, то не надо — от них у 
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">меня</rs> все праздники.
+                    <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">Я</rs> 
+                    езжу с <rs type="person" ref="#Lilya_Yuryevna_Brik">тобой</rs>, 
+                    пишу с <rs type="person" ref="Lilya_Yuryevna_Brik">тобой</rs>, сплю 
+                    с <rs type="person" ref="Lilya_Yuryevna_Brik">твоим кошачьим имечком</rs> и все такое.
+                    Целую <rs type="person" ref="#Lilya_Yuryevna_Brik">тебя</rs>, 
+                    если <rs type="person" ref="#Lilya_Yuryevna_Brik">ты</rs> 
+                    не боишься быть растерзанной бешеным собаком...
+                    <rs type="person" ref="#Lilya_Yuryevna_Brik">Любимый</rs>, 
+                    помни <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">меня</rs>. 
+                    Поцелуй Клеста. 
+                    Скажи, чтоб не вылазил— <rs type="person" ref="#Vladimir_Vladimirovich_Mayakovsky">я
+                    <figure><graphic url="image.jpg"/></figure></rs> 
+                    же не вылажу!»
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
