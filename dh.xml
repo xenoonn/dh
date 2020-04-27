@@ -21,7 +21,7 @@
                     </person>
                 </listPerson>
                 <listRelation type="personal">
-                    <relation  name="lover" mutual="#Lilya_Yuryevna_Brik #Vladimir_Vladimirovich_Mayakovsky"></relation>
+                    <relation  name="friend" mutual="#Lilya_Yuryevna_Brik #Vladimir_Vladimirovich_Mayakovsky"></relation>
                     <relation name="friend" mutual="#Vladimir_Vladimirovich_Mayakovsky #Lev_Alexandrovich_Grinkrug #Lilya_Yuryevna_Brik"></relation>
                 </listRelation>
                 <listPlace>
